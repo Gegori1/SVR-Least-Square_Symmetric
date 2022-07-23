@@ -1,7 +1,7 @@
 # Symmetric-SVR
-SVR with symmetric kernel***
+SVR with ***
 
-This repository is a Python implementation of SVR, including a symmetric kernel***, and a weighted elastic-net regularization structure, using cvxpy as base solver.  
+This repository is a Python implementation of SVR, including a***, and a weighted elastic-net regularization structure, using cvxpy as base solver.  
 
 •	Bayesian Optimization: all files related to hyperparameter optimization.
 
