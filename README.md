@@ -1,11 +1,11 @@
-# Symmetric-SVR
-SVR with ***
+# Symmetric-LS-SVR
+Symmetric formulation of least squares SVR
 
-This repository is a Python implementation of SVR, including a***, and a weighted elastic-net regularization structure, using cvxpy as base solver.  
+This repository is a Python implementation of Symmetric LS-SVR
 
 •	Bayesian Optimization: all files related to hyperparameter optimization.
 
-•	Library: SVR MAPE Extended library.
+•	Library: Symmetric-LS-SVR library.
 
 •	Model_Comparison: Comparison between standard models and presented model.
 
